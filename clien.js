@@ -26,4 +26,4 @@ async function client() {
 
 
 
-module.exports = { client };
+module.exports = client ;
